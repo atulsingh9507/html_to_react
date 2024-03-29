@@ -10,11 +10,7 @@ const Header = () => {
 		<div className="container">
 			<div className="row justify-content-between align-items-center">
 				<div className="col-lg-2 col-md-4">
-					<div className="header-top-socials text-center text-lg-left text-md-left">
-						<Link to="https://www.facebook.com/themefisher" target="_blank"><i className="ti-facebook"></i></Link>
-						<Link to="https://twitter.com/themefisher" target="_blank"><i className="ti-twitter"></i></Link>
-						<Link to="https://github.com/themefisher/" target="_blank"><i className="ti-github"></i></Link>
-					</div>
+					
 				</div>
 				<div className="col-lg-10 col-md-8 text-center text-lg-right text-md-right">
 					<div className="header-top-info">
@@ -59,6 +55,7 @@ const Header = () => {
 					</ul>
 			  </li>
 			   <li className="nav-item"><Link className="nav-link" to="/contact">Contact</Link></li>
+               <li className="nav-item"><Link className="nav-link" to="/socialmedia">SocialMedia</Link></li>
 			</ul>
 
 			<form className="form-lg-inline my-2 my-md-0 ml-lg-4 text-center">

@@ -70,11 +70,7 @@ const Footer = () => {
 					</div>
 				</div>
 				<div className="col-lg-4 col-md-12 col-sm-12 text-left text-lg-left">
-					<ul className="list-inline footer-socials">
-						<li className="list-inline-item"><Link to="https://www.facebook.com/themefisher"><i className="ti-facebook mr-2"></i>Facebook</Link></li>
-						<li className="list-inline-item"><Link to="https://twitter.com/themefisher"><i className="ti-twitter mr-2"></i>Twitter</Link></li>
-						<li className="list-inline-item"><Link to="https://www.pinterest.com/themefisher/"><i className="ti-linkedin mr-2 "></i>Linkedin</Link></li>
-					</ul>
+					
 				</div>
 			</div>
 		</div>

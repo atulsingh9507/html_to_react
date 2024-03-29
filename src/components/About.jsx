@@ -3,6 +3,7 @@ import Header from '../vikash/Header';
 import Footer from '../vikash/Footer';
 
 
+
 const About = () => {
   return (
     <div>
@@ -129,20 +130,7 @@ const About = () => {
 					<div className="team-item position-relative">
 						<img src="images/team/team-1.jpg" alt="" className="img-fluid w-100"/>
 						<div className="team-img-hover">
-							<ul className="team-social list-inline">
-								<li className="list-inline-item">
-									<Link to="#" className="facebook"><i className="fab fa-facebook-f" aria-hidden="true"></i></Link>
-								</li>
-								<li className="list-inline-item">
-									<Link to="#" className="twitter"><i className="fab fa-twitter" aria-hidden="true"></i></Link>
-								</li>
-								<li className="list-inline-item">
-									<Link to="#" className="instagram"><i className="fab fa-instagram" aria-hidden="true"></i></Link>
-								</li>
-								<li className="list-inline-item">
-									<Link to="#" className="linkedin"><i className="fab fa-linkedin-in" aria-hidden="true"></i></Link>
-								</li>
-							</ul>
+						
 						</div>
 					</div>
 					<div className="team-item-content">

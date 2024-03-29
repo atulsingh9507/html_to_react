@@ -65,13 +65,7 @@ const App = () => {
 				    	<li className="list-inline-item"><Link to="#" rel="tag">Travel</Link></li>
 				   	</ul>        
 
-				    <ul className="float-right list-inline">
-				        <li className="list-inline-item"> Share: </li>
-				        <li className="list-inline-item"><Link to="#" target="_blank"><i className="fab fa-facebook-f" aria-hidden="true"></i></Link></li>
-				        <li className="list-inline-item"><Link to="#" target="_blank"><i className="fab fa-twitter" aria-hidden="true"></i></Link></li>
-				        <li className="list-inline-item"><Link to="#" target="_blank"><i className="fab fa-pinterest-p" aria-hidden="true"></i></Link></li>
-				        <li className="list-inline-item"><Link to="#" target="_blank"><i className="fab fa-google-plus" aria-hidden="true"></i></Link></li>
-				    </ul>
+				  
 			    </div>
 			</div>
 		</div>

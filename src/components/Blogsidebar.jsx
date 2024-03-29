@@ -116,23 +116,7 @@ const App = () => {
 			<p>Digital Marketer</p>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, dolore.</p>
 
-			<ul className="list-inline author-socials">
-				<li className="list-inline-item mr-3">
-					<Link to="#"><i className="fab fa-facebook-f text-muted"></i></Link>
-				</li>
-				<li className="list-inline-item mr-3">
-					<Link to="#"><i className="fab fa-twitter text-muted"></i></Link>
-				</li>
-				<li className="list-inline-item mr-3">
-					<Link to="#"><i className="fab fa-linkedin-in text-muted"></i></Link>
-				</li>
-				<li className="list-inline-item mr-3">
-					<Link to="#"><i className="fab fa-pinterest text-muted"></i></Link>
-				</li>
-				<li className="list-inline-item mr-3">
-					<Link to="#"><i className="fab fa-behance text-muted"></i></Link>
-				</li>
-			</ul>
+			
 		</div>
 	</div>
 

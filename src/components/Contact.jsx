@@ -76,17 +76,7 @@ const Contact = () => {
                         </li>
                     </ul>
 
-                    <ul className="social-icons list-inline mt-5">
-                        <li className="list-inline-item">
-                            <Link to="http://www.themefisher.com"><i className="fab fa-facebook-f"></i></Link>
-                        </li>
-                        <li className="list-inline-item">
-                            <Link to="http://www.themefisher.com"><i className="fab fa-twitter"></i></Link>
-                        </li>
-                        <li className="list-inline-item">
-                            <Link to="http://www.themefisher.com"><i className="fab fa-linkedin-in"></i></Link>
-                        </li>
-                    </ul>
+                    
                 </div>
             </div>
         </div>

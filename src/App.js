@@ -5,9 +5,10 @@ import {  Routes, Route} from 'react-router-dom';
 import Pricing from "./components/Pricing";
 import Bloggrid from "./components/bloggrid";
 import Blogsidebar from "./components/Blogsidebar";
-import Project from "./components/Project"
-import Blogsingle from "./components/Blogsingle"
-import Service from "./components/Service"
+import Project from "./components/Project";
+import Blogsingle from "./components/Blogsingle";
+import Service from "./components/Service";
+import SocialMedia from "./components/Socialmedia";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route path="/blogsingle" element={ <Blogsingle/> } />
           <Route path="/project" element={ <Project/> } />
           <Route path="/service" element={ <Service/> } />
+          <Route path="/socialmedia" element={ <SocialMedia/> } />
         </Routes>
         
      
